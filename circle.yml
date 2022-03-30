@@ -1,0 +1,5 @@
+machine: 
+  node:
+    version: 16.13.1 
+  test:
+    - npm test 
